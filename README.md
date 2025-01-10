@@ -8,6 +8,7 @@ A React app that allows users to add, set reminder for, and delete tasks.
 - React
 - HTML
 - CSS
+- JSON-server (only in development environment)
 - Netlify (view app at https://sleepy-mirzakhani-e57f97.netlify.app/)
 
 ## Tutorials:
